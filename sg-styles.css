@@ -152,7 +152,7 @@ ul {
     color: rgb(214, 214, 214);
     font-size: 22px;
     height: 24px;
-    width: 68px;
+    width: max-content;
     border: none;
     cursor: pointer;
     font-family: Arial, Helvetica, sans-serif;
@@ -394,7 +394,7 @@ ul {
 
 .section4 h1{
     margin-left: 14%;
-    color: aqua;
+    color: #CD9C8A;
     position: relative;
     display: inline-flex;
     padding: 0 10px;
@@ -405,7 +405,7 @@ ul {
 
 .section4 h2{
     margin-left: 3.5%;
-    color: aqua;
+    color: #CD9C8A;
     position: relative;
     display: inline-flex;
     padding: 0 10px;
@@ -416,14 +416,13 @@ ul {
 
 .section4 h3{
     margin-left: 2.5%;
-    color: aqua;
+    color: #CD9C8A;
     position: relative;
     display: inline-flex;
     padding: 0 10px;
     background-color: transparent;
     font-family: "Montserrat", sans-serif;
     font-size: 22px;
-    font-family: "Quicksand", sans-serif;
 }
 
 @media (min-width: 769px){
