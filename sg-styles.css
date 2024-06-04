@@ -333,7 +333,6 @@ ul {
     color: rgb(214, 214, 214);
 }
 
-<<<<<<< HEAD
 .section3 p {
     color: rgb(214, 214, 214);
     font-size: 22px;
@@ -341,8 +340,6 @@ ul {
     font-family: "Montserrat", sans-serif;
 }
 
-=======
->>>>>>> fd1aa541f919d44bab176c6eff26d113770e1ed0
 .section3 h1 {
     font-size: 50px;
     margin-left: 44%;
@@ -350,20 +347,16 @@ ul {
     font-family: "Dancing Script", cursive;
 }
 
-<<<<<<< HEAD
-=======
 .section3 p {
     color: rgb(214, 214, 214);
     margin-left: 44%;
     font-size: 22px;
 }
 
->>>>>>> fd1aa541f919d44bab176c6eff26d113770e1ed0
 .section3 h2 {
     color: rgb(214, 214, 214);
     margin-left: 38%;
     font-size: 18px;
-<<<<<<< HEAD
     font-weight: 400;
     font-family: "Montserrat", sans-serif;
 }
@@ -430,9 +423,7 @@ ul {
     background-color: transparent;
     font-family: "Montserrat", sans-serif;
     font-size: 22px;
-=======
     font-family: "Quicksand", sans-serif;
->>>>>>> fd1aa541f919d44bab176c6eff26d113770e1ed0
 }
 
 @media (min-width: 769px){
@@ -455,13 +446,10 @@ ul {
     
     .nav2 #button1{
         margin-left: 45%;
-<<<<<<< HEAD
     }
 
     .section3 p {
         margin-left: 43%;
-=======
->>>>>>> fd1aa541f919d44bab176c6eff26d113770e1ed0
     }
 
 }
@@ -479,7 +467,6 @@ ul {
 
     .goprevbtn{
         margin-left: 10%;
-<<<<<<< HEAD
     }
     
     .gonextbtn{
@@ -492,7 +479,6 @@ ul {
 
     .section3 p {
         margin-left: 26%;
-=======
     }
     
     .gonextbtn{
@@ -501,7 +487,6 @@ ul {
     
     .nav2 #button1{
         margin-left: 30%;
->>>>>>> fd1aa541f919d44bab176c6eff26d113770e1ed0
     }
 
 }
