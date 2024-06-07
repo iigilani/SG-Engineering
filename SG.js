@@ -101,18 +101,22 @@ window.onclick = function(event) {
   }
 
 function myFunction2() {
-    document.getElementById("myDropdown2").classList.toggle("show2");
+    document.getElementById("myDropdown2").classList.add("show2");
 }
 
-window.onclick = function(event) {
-    if (!event.target.matches('.dropbtn2')) {
-      var dropdowns = document.getElementsByClassName(".dropdown-content2");
-      var i;
-      for (i = 0; i < dropdowns.length; i++) {
+window.onmouseenter = function(event) {
+  if (!event.target.matches('.dropbtn2')) {
+    var dropdowns = document.getElementsByClassName(".dropdown-content2");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
         var openDropdown = dropdowns[i];
-        if (openDropdown.classList.contains('show2')) {
-          openDropdown.classList.remove('show2');
-        }
+      if (openDropdown.classList.contains('show2')) {
+        openDropdown.classList.remove('show2');
       }
     }
   }
+}
+
+function myFunction3() {
+  document.getElementById("myDropdown2").classList.remove("show2");
+}
