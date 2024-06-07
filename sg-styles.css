@@ -320,7 +320,7 @@ ul {
     height: 16px;
 }
 
-.contactp1{
+.contactP1{
     width: 200%;
     position: relative;
     margin-top: 5px; 
@@ -329,7 +329,7 @@ ul {
     color: rgb(214, 214, 214);
 }
 
-.contactp2{
+.contactP2{
     width: 200%;
     position: relative;
     margin-top: 5px; 
@@ -343,14 +343,12 @@ ul {
     margin-left: 43%;
     font-size: 22px;
     font-weight: 400;
-    z-index: +;
     font-family: "Montserrat", sans-serif;
 }
 
 .section3 h1 {
     font-size: 50px;
     margin-left: 44%;
-    z-index: +;
     color: #CD9C8A;
     font-family: "Dancing Script", cursive;
 }
@@ -360,7 +358,6 @@ ul {
     margin-left: 38%;
     font-size: 18px;
     font-weight: 400;
-    z-index: +;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -505,6 +502,6 @@ ul {
 
     .section3 h2 {
         margin-left: 18%;
+        margin-left: 31%;
     }
-
 }
